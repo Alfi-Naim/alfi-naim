@@ -3,7 +3,7 @@
 </p>
 <h1 align="center" dir="auto">Hey there
       <img style="display: block;-webkit-user-select: none;margin: auto; height:30px; width:30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Alfi.</h1>
-      <h3 align="center">Full stack / frontend developer</h3>
+      <h3 align="center">Software engineer</h3>
 <h3 style="font-size: 19px;" align="center">
     <a href="https://alfi-naim.github.io/Portfolio/">Portfolio</a>   // 
     <a href="https://www.linkedin.com/in/alfi-naim">LinkedIn</a>
