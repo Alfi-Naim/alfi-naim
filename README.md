@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="30%" height="auto" src="https://alfi-naim.github.io/Portfolio/static/media/developer.b57c68b64290cc77f520a40882987e1e.svg"/>
+  <img width="30%" height="auto" src="https://raw.githubusercontent.com/Alfi-Naim/alfi-naim/main/developer.svg"/>
 </p>
 <h1 align="center" dir="auto">Hey there
       <img style="display: block;-webkit-user-select: none;margin: auto; height:30px; width:30px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Alfi.</h1>
